@@ -1,7 +1,7 @@
 # Human-and-Agent CLI Checklist
 
 Use this checklist during design and review. The rationale and normative rules
-live in [CLI Design for Humans and Agents](cli-guidelines.md).
+live in [CLI Design for Humans and Agents](guidelines.md).
 
 ## Command shape and discovery
 
