@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design CLIs"
+  short_description: "Design CLIs for people and autonomous agents"
+  default_prompt: "Use $design-clis to design or review this command-line interface."
